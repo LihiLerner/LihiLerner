@@ -24,12 +24,12 @@ from algorithms, data structures, and mathematics to object-oriented programming
 
 I’m highly self-motivated, detail-oriented, and enjoy working on complex systems that combine backend logic, APIs, and real-world use cases.
 
-## 📫 Find me here
+**📫 Find me here**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lihi-lerner-407b662ab/) 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/Lihi_Lerner/)
 
-## 🔨 Languages & Tools
+**🔨 Languages & Tools**
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) 
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/) 
