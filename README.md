@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 
 🙋‍♀️ **About Me**  
-### **I’m a Computer Science B.Sc. student at Bar-Ilan University, with a strong passion for software development and problem solving.**
+**I’m a Computer Science B.Sc. student at Bar-Ilan University, with a strong passion for software development and problem solving.**
 
 Throughout my studies and projects, I’ve gained experience across a wide range of topics —  
+
 from algorithms, data structures, and mathematics to object-oriented programming, networking, and full-stack development.
 
 I’m highly self-motivated, detail-oriented, and enjoy working on complex systems that combine backend logic, APIs, and real-world use cases.
