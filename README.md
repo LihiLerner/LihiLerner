@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-🙋‍♀️ About Me  
+🙋‍♀️ **About Me**  
 ### **I’m a Computer Science B.Sc. student at Bar-Ilan University, with a strong passion for software development and problem solving.**
 
 Throughout my studies and projects, I’ve gained experience across a wide range of topics —  
@@ -27,7 +27,6 @@ I’m highly self-motivated, detail-oriented, and enjoy working on complex syste
 ## 📫 Find me here
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lihi-lerner-407b662ab/) 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lihi.lerner@gmail.com) 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/Lihi_Lerner/)
 
 ## 🔨 Languages & Tools
