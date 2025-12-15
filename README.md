@@ -25,9 +25,12 @@ from algorithms, data structures, and mathematics to object-oriented programming
 I’m highly self-motivated, detail-oriented, and enjoy working on complex systems that combine backend logic, APIs, and real-world use cases.
 
 📫 **Find me here**
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/lihi-lerner-407b662ab/)  
-[![Email](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg)](mailto:lihi.lerner@gmail.com)
-[![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)](https://leetcode.com/Lihi_Lerner/)
+📫 **Find me here**  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/lihi-lerner-407b662ab/) 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=D14836)](mailto:lihi.lerner@gmail.com) 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white&labelColor=FFA116)](https://leetcode.com/Lihi_Lerner/)
+
   
 🔨 **Languages & Tools**  
 
