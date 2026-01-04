@@ -73,11 +73,32 @@ I’m highly self-motivated, detail-oriented, and enjoy working on complex syste
  -->
 
  # Recent Projects:
+ ### Smartcart:
+Built a collaborative shopping list platform for web and mobile, enabling real-time sharing and history tracking of past lists. 
+Developed RESTful APIs in Python with Flask, integrated MongoDB, and implemented a smart recommendation system for items. 
+Ensured code reliability through unit and integration tests using Python’s unittest and mock libraries, managing tasks with Jira.  
+ 🖇[GitHub repository](https://github.com/liel7200/SmartCart)  
+ <p align="center">
+  <img src="https://github.com/liel7200/SmartCart/blob/b87371e781db617197c10f5b86b11169205e38f6/images/MyList.jpg" width="250">
+  <img src="https://github.com/liel7200/SmartCart/blob/b87371e781db617197c10f5b86b11169205e38f6/images/SmartRecommendationsOfStores.jpg" width="250">
+</p>
+
+ ### Netflix-inspired Streaming Platform
+Implemented a multi-threaded web server in Node.js supporting web and mobile clients. Handled API requests using HTTP, integrated MongoDB for data storage, and built the front-end with React, HTML, and CSS. 
+Followed Test-Driven Development (TDD) practices and used Docker and Jira to manage the project.  
+ 🖇[GitHub repository](https://github.com/oranshaki2/Netflix_Final)  
+  <p align="center">
+  <img src="https://github.com/oranshaki2/Netflix_Final/blob/09181d43788c94554338abbb089b74b376ee79dc/wiki/proof/home_screen_light_mode.jpeg" width="250">
+    &nbsp;&nbsp;&nbsp
+  <img src="https://github.com/oranshaki2/Netflix_Final/blob/09181d43788c94554338abbb089b74b376ee79dc/wiki/proof/WhatsApp%20Image%202025-02-01%20at%2020.00.19_2072faed.jpg" width="650">
+</p>
+ 
+ 
  ### Arkanoid:
  Arkanoid is a classic arcade game in which the player controls a paddle to bounce a ball and break bricks on the screen, aiming to clear all bricks without letting the ball fall.
  You are welcome to explore the full source code and play the game.  
  🖇[GitHub repository](https://github.com/LihiLerner/Arkanoid)  
  
- ![](![arkanoid2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/41f6a8eb-37e2-49b7-88e5-a53906ef16ba))
+ ![arkanoid2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/41f6a8eb-37e2-49b7-88e5-a53906ef16ba)
 
 
