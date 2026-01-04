@@ -1,4 +1,7 @@
-## Hi there, I'm Lihi👋
+
+<h1 align="center">
+Hi there, I'm Lihi👋
+</h1>
 
 <!--
 **LihiLerner/LihiLerner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -68,5 +71,13 @@ I’m highly self-motivated, detail-oriented, and enjoy working on complex syste
 - Former Human Resources Officer in the Cyber Defense Division (IDF), with leadership experience in cross-disciplinary projects  
 - Graduated with honors from the “Hadarim” program (Microsoft, Ministry of Education & IDF)  
  -->
+
+ # Recent Projects:
+ ### Arkanoid:
+ Arkanoid is a classic arcade game in which the player controls a paddle to bounce a ball and break bricks on the screen, aiming to clear all bricks without letting the ball fall.
+ You are welcome to explore the full source code and play the game.  
+ 🖇[GitHub repository](https://github.com/LihiLerner/Arkanoid)  
+ 
+ ![](![arkanoid2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/41f6a8eb-37e2-49b7-88e5-a53906ef16ba))
 
 
